@@ -11,7 +11,6 @@ I'm an **Informatics student** at **State Polytechnic of Malang**.
 🎓 **Studying Informatics | Class of 2024**  
 ☕ **Surviving college with caffeine and late-night coding sessions**  
 
-> "Tugas makin numpuk, RAM otak makin penuh, kapan di-upgrade?" 😂
 
 ---
 
@@ -24,10 +23,6 @@ I'm an **Informatics student** at **State Polytechnic of Malang**.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FebryanAkt&layout=compact&theme=nightowl&exclude_repo,FebryanAkt" height="180px"/>
 </div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=FebryanAkt&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=FebryanAkt&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
