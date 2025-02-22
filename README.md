@@ -14,15 +14,9 @@ I'm an **Informatics student** at **State Polytechnic of Malang**.
 
 ---
 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ### :fire: My Stats :
 <div>
   <img src="https://nirzak-streak-stats.vercel.app/?user=FebryanAkt&theme=nightowl" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FebryanAkt&layout=compact&theme=nightowl&exclude_repo,FebryanAkt" height="180px"/>
 </div>
 
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
