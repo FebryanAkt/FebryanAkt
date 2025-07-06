@@ -27,6 +27,5 @@ I'm an **Informatics student** at **State Polytechnic of Malang**.
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FebryanAkt/FebryanAkt/output/pacman-contribution-graph.svg">
 </picture>
 
-<!-- snake -->
-<img src="https://raw.githubusercontent.com/FebryanAkt/FebryanAkt/output/snake.svg" alt="Snake animation" />
+
 
