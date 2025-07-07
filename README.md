@@ -10,7 +10,6 @@ Hi I'm **Febryan Akhmad Taajuddin**!
 I'm an **Informatics student** at **State Polytechnic of Malang**.
 
 🎓 **Studying Informatics | Class of 2024**  
-☕ **Surviving college with caffeine and late-night coding sessions**
 
 ---
 
