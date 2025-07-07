@@ -4,7 +4,7 @@
 
 ---
 
-## 👋 About Me
+### 👋 About Me
 
 Hi I'm **Febryan Akhmad Taajuddin**!  
 I'm an **Informatics student** at **State Polytechnic of Malang**.
@@ -21,12 +21,7 @@ I'm an **Informatics student** at **State Polytechnic of Malang**.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FebryanAkt&layout=compact&theme=nightowl&exclude_repo,FebryanAkt" height="180px"/>
 </div>
 
-<!-- pacman -->
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FebryanAkt/FebryanAkt/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FebryanAkt/FebryanAkt/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FebryanAkt/FebryanAkt/output/pacman-contribution-graph.svg">
-</picture> -->
-
 ---
 <img src="https://raw.githubusercontent.com/FebryanAkt/FebryanAkt/output/snake.svg" alt="Snake animation" />
+
+###
