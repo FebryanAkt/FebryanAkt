@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi+There%21;I'am+Febryan+Akhmad+Taajuddin👋" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi+There%21;I'm+Febryan+Akhmad+Taajuddin👋" />
 </h1>
 
 ---
@@ -26,3 +26,7 @@ I'm an **Informatics student** at **State Polytechnic of Malang**.
 </div>
 
 ###
+
+---
+
+[![wakatime](https://wakatime.com/badge/user/2ce07778-17d3-41d2-9c16-837e58d482ed.svg)](https://wakatime.com/@2ce07778-17d3-41d2-9c16-837e58d482ed)
