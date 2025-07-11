@@ -28,5 +28,11 @@ I'm an **Informatics student** at **State Polytechnic of Malang**.
 ###
 
 ---
+### ⏱️ WakaTime Coding Stats
 
 [![wakatime](https://wakatime.com/badge/user/2ce07778-17d3-41d2-9c16-837e58d482ed.svg)](https://wakatime.com/@2ce07778-17d3-41d2-9c16-837e58d482ed)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+> 📊 These stats auto-update every day.
